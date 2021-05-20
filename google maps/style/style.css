@@ -1,0 +1,190 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#map{
+    height: 100vh;
+    position: relative;
+    
+
+}
+.map-Header{
+    font-size: 60px;
+    position: absolute;
+    z-index: 10;
+    padding-left: 36px;
+    padding-top: 50px;
+    font-weight: 500;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(114, 103, 103);
+    
+}
+
+.searchcontainer{
+    height: 80px;
+    width: 400px;
+    background-color: #454E53;
+    position: absolute;
+    z-index: 10;
+    margin-top: 120px;
+    margin-left: 40px;
+    border-radius: 44px;
+    display: flex;
+    align-items: center;
+    
+}
+.search{
+    display: flex;
+    align-items: center;
+}
+.search input{
+ 
+    
+  
+   
+   font-size: 25px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: white;
+   margin-left: 30px;
+   border: none;
+   outline: none;
+    background-color:transparent;
+    flex-grow: 1;
+  
+    
+}
+
+.search input :focus{
+    text-decoration: none;
+}
+
+.search i{
+   
+    color: white;
+   margin-left: 350px;
+   font-size: 25px;
+   position: absolute;
+   cursor: pointer;
+}
+
+.list-container{
+    position: absolute;
+  
+    z-index: 10;
+    top: 210px;
+    left: 40px;
+    bottom: 10px;
+    width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 60px;
+    overflow-y: scroll;
+   
+   
+    
+}
+
+.list{
+ 
+    padding-top: 30px;
+   padding-left: 15px;
+    display: flex;
+    justify-content: center;
+   flex-direction: column;
+   
+
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.intro1{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 6px;
+    color: grey;
+}
+
+.intro2{
+    font-family: cursive;
+    color: rgb(37, 138, 197);
+}
+
+
+
+.store-container{
+    display: flex;
+    margin-right: 15px;
+    border-bottom: .5px solid grey;
+    
+}
+
+.store-container-background{
+    display: flex;
+  
+    border-radius: 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+.store-container-background:hover{
+    background-color:#cccccc87;
+}
+.store-info-container{
+
+    flex-grow: 1;
+    padding-left: 5px;
+    padding-top: 5px;
+    
+
+
+   
+}
+.store-name{
+    padding-bottom: 10px;
+    font-size: 19px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.store-address{
+    font-family: Average Sans;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.store-contact{
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight:lighter;
+    color: #B5ADAD;
+    margin-bottom: 10px;
+    
+
+}
+
+.store-number-container{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 5px;
+    
+
+    
+}
+.store-number{
+
+    height: 30px;
+    width: 30px;
+   
+    background-color: #454E53;    
+    border-radius: 40px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}

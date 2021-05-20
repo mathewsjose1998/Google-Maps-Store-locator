@@ -1,0 +1,6440 @@
+ [{
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "29814-248911",
+        "id": "1015490",
+        "name": "Hwy 90 & Promenade, Stafford",
+        "phoneNumber": "2818401163",
+        "coordinates": {
+            "latitude": 29.620223,
+            "longitude": -95.568446
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3613 South Main St",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Stafford",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774775406"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["3613 South Main St", "Stafford, TX 77477"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-90-promenade-stafford-3613-south-main-st-stafford-tx-774775406-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "29343-252885",
+        "id": "1021026",
+        "name": "Murphy & Independence",
+        "phoneNumber": "3462423933",
+        "coordinates": {
+            "latitude": 29.599646,
+            "longitude": -95.563783
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1321 FM 1092 Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Missouri City",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774591504"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["1321 FM 1092 Rd", "Missouri City, TX 77459"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "WX",
+            "name": "After Hours WiFi"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "murphy-independence-1321-fm-1092-rd-missouri-city-tx-774591504-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "10122-96587",
+        "id": "10224",
+        "name": "Hwy 59 & Wilcrest",
+        "phoneNumber": "281-879-1751",
+        "coordinates": {
+            "latitude": 29.651599,
+            "longitude": -95.567117
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "11623 SW Freeway",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770313611"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "available"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["11623 SW Freeway", "Houston, TX 77031"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-59-wilcrest-11623-sw-freeway-houston-tx-770313611-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6868-84503",
+        "id": "13786",
+        "name": "Murphy Rd & Hwy 6",
+        "phoneNumber": "281-499-0341",
+        "coordinates": {
+            "latitude": 29.567205,
+            "longitude": -95.56666
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5940 S. State Hwy 6",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Missouri City",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774594162"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:30 PM",
+        "warnings": [],
+        "addressLines": ["5940 S. State Hwy 6", "Missouri City, TX 77459"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 6-9 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "murphy-rd-hwy-6-5940-s-state-hwy-6-missouri-city-tx-774594162-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "11571-104134",
+        "id": "17806",
+        "name": "Sweetwater & Lexington",
+        "phoneNumber": "281-277-0677",
+        "coordinates": {
+            "latitude": 29.585131,
+            "longitude": -95.630845
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4720-A Sweetwater Blvd.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Sugar Land",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774793401"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:30 PM",
+        "warnings": [],
+        "addressLines": ["4720-A Sweetwater Blvd.", "Sugar Land, TX 77479"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "sweetwater-lexington-4720-a-sweetwater-blvd-sugar-land-tx-774793401-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "54929-288688",
+        "id": "1024755",
+        "name": "University and LJ PKwy",
+        "phoneNumber": "3462426788",
+        "coordinates": {
+            "latitude": 29.548229,
+            "longitude": -95.584254
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "18802 University Blvd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": "University and LJ Pkwy",
+            "city": "Sugar Land",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774795469"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "available"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["18802 University Blvd", "Sugar Land, TX 77479"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "university-and-lj-p-kwy-18802-university-blvd-university-and-lj-pkwy-sugar"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "23475-230544",
+        "id": "1009024",
+        "name": "Hwy 6 & Trammel Fresno",
+        "phoneNumber": "2814310157",
+        "coordinates": {
+            "latitude": 29.535202,
+            "longitude": -95.52321
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9650 Hwy 6",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Missouri City",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774594987"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["9650 Hwy 6", "Missouri City, TX 77459"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-6-trammel-fresno-9650-hwy-6-missouri-city-tx-774594987-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "25383-201064",
+        "id": "1014245",
+        "name": "Hwy 90 & Easton",
+        "phoneNumber": "2814143249",
+        "coordinates": {
+            "latitude": 29.607788,
+            "longitude": -95.659534
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6502 Highway 90A",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Sugar Land",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "77478"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:30 PM",
+        "warnings": [],
+        "addressLines": ["6502 Highway 90A", "Sugar Land, TX 77478"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-90-easton-6502-highway-90-a-sugar-land-tx-77478-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "10651-96583",
+        "id": "17824",
+        "name": "Hwy 6 & Bissonnet",
+        "phoneNumber": "(281) 530-7446",
+        "coordinates": {
+            "latitude": 29.677956,
+            "longitude": -95.643089
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9315 Hwy 6 South",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770836381"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 10:00 PM",
+        "warnings": [],
+        "addressLines": ["9315 Hwy 6 South", "Houston, TX 77083"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-6-bissonnet-9315-hwy-6-south-houston-tx-770836381-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "25411-200784",
+        "id": "1014065",
+        "name": "Beltway 8 & Harwin",
+        "phoneNumber": "8325579721",
+        "coordinates": {
+            "latitude": 29.716009,
+            "longitude": -95.558252
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5820 W. Sam Houston Pkwy S.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770721652"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:30 PM",
+        "warnings": [],
+        "addressLines": ["5820 W. Sam Houston Pkwy S.", "Houston, TX 77072"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "beltway-8-harwin-5820-w-sam-houston-pkwy-s-houston-tx-770721652-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "27057-242284",
+        "id": "1014701",
+        "name": "610 & Braeswood",
+        "phoneNumber": "7132538653",
+        "coordinates": {
+            "latitude": 29.682455,
+            "longitude": -95.457961
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4660 N Brasewood",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770962804"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["4660 N Brasewood", "Houston, TX 77096"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "610-braeswood-4660-n-brasewood-houston-tx-770962804-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "8100-95201",
+        "id": "12435",
+        "name": "Hillcroft & US 59",
+        "phoneNumber": "713-270-9687",
+        "coordinates": {
+            "latitude": 29.716631,
+            "longitude": -95.498298
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6001 Hillcroft",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770811014"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 10:00 PM",
+        "warnings": [],
+        "addressLines": ["6001 Hillcroft", "Houston, TX 77081"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 5-8 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hillcroft-us-59-6001-hillcroft-houston-tx-770811014-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "3446-62561",
+        "id": "14260",
+        "name": "Hwy 59 & Grand Parkway",
+        "phoneNumber": "281-633-0494",
+        "coordinates": {
+            "latitude": 29.563488,
+            "longitude": -95.684902
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "19908 SW Freeway",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Sugar Land",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774796505"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["19908 SW Freeway", "Sugar Land, TX 77479"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 5-8 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-59-grand-parkway-19908-sw-freeway-sugar-land-tx-774796505-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "20137-153670",
+        "id": "1007383",
+        "name": "Westheimer & Jeanetta",
+        "phoneNumber": "7132665257",
+        "coordinates": {
+            "latitude": 29.736951,
+            "longitude": -95.526605
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9235 Westheimer Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770633576"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "available"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["9235 Westheimer Road", "Houston, TX 77063"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "westheimer-jeanetta-9235-westheimer-road-houston-tx-770633576-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "27887-230685",
+        "id": "1015353",
+        "name": "Westheimer & Dairy Ashford Rd",
+        "phoneNumber": "2817536506",
+        "coordinates": {
+            "latitude": 29.735715,
+            "longitude": -95.604558
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "12555 Westheimer Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770775867"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "available"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["12555 Westheimer Road", "Houston, TX 77077"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "westheimer-dairy-ashford-rd-12555-westheimer-road-houston-tx-770775867-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "678-240344",
+        "id": "1012651",
+        "name": "Westheimer & Hillcroft",
+        "phoneNumber": "7132666474",
+        "coordinates": {
+            "latitude": 29.737135,
+            "longitude": -95.503969
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "7705 Westheimer Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770634651"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["7705 Westheimer Road", "Houston, TX 77063"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 5-8 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "westheimer-hillcroft-7705-westheimer-road-houston-tx-770634651-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "10702-101628",
+        "id": "17495",
+        "name": "Main & Buffalo Speedway",
+        "phoneNumber": "713-669-0688",
+        "coordinates": {
+            "latitude": 29.679725,
+            "longitude": -95.426462
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9602 South Main",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770254545"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["9602 South Main", "Houston, TX 77025"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "main-buffalo-speedway-9602-south-main-houston-tx-770254545-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "27271-180847",
+        "id": "1013881",
+        "name": "S. Rice & West Park Tollway",
+        "phoneNumber": "8325232867",
+        "coordinates": {
+            "latitude": 29.723225,
+            "longitude": -95.467411
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5409 South Rice Ave",
+            "streetAddressLine2": "101",
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770812737"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "available"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["5409 South Rice Ave", "101", "Houston, TX 77081"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "s-rice-west-park-tollway-5409-south-rice-ave-houston-tx-770812737-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "9311-242264",
+        "id": "1014517",
+        "name": "Chimney Rock Rd & Richmond Ave",
+        "phoneNumber": "8322527441",
+        "coordinates": {
+            "latitude": 29.731932,
+            "longitude": -95.475806
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5540 Richmond Avenue",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770566616"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["5540 Richmond Avenue", "Houston, TX 77056"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "chimney-rock-rd-richmond-ave-5540-richmond-avenue-houston-tx-770566616-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "11562-100436",
+        "id": "6759",
+        "name": "Westheimer & Briargreen, Houston",
+        "phoneNumber": "281-497-0085",
+        "coordinates": {
+            "latitude": 29.735254,
+            "longitude": -95.640431
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "14333 Westheimer Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770775239"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "available"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["14333 Westheimer Road", "Houston, TX 77077"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "westheimer-briargreen-houston-14333-westheimer-road-houston-tx-770775239-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "54151-286397",
+        "id": "1023916",
+        "name": "Grand Parkway and Harlem",
+        "phoneNumber": "2813895813",
+        "coordinates": {
+            "latitude": 29.658506,
+            "longitude": -95.713282
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "10203 W GRAND PARKWAY S",
+            "streetAddressLine2": "101",
+            "streetAddressLine3": null,
+            "city": "Richmond",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774072380"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["10203 W GRAND PARKWAY S", "101", "Richmond, TX 77407"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "grand-parkway-and-harlem-10203-w-grand-parkway-s-richmond-tx-774072380-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "22655-201085",
+        "id": "1006958",
+        "name": "FM 1464 & Bellaire",
+        "phoneNumber": "281-240-8691",
+        "coordinates": {
+            "latitude": 29.702485,
+            "longitude": -95.68721
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "7027 FM 1464",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Richmond",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774079541"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 10:00 PM",
+        "warnings": [],
+        "addressLines": ["7027 FM 1464", "Richmond, TX 77407"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "fm-1464-bellaire-7027-fm-1464-richmond-tx-774079541-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "17099-164866",
+        "id": "90167",
+        "name": "Kirby & Shadow Creek",
+        "phoneNumber": "713 3402356",
+        "coordinates": {
+            "latitude": 29.578769,
+            "longitude": -95.398225
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "11520 Shadow Creek Parkway",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Pearland",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "77047"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["11520 Shadow Creek Parkway", "Pearland, TX 77047"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "kirby-shadow-creek-11520-shadow-creek-parkway-pearland-tx-77047-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "49540-260965",
+        "id": "1023204",
+        "name": "518 & Southern Trails Dr.",
+        "phoneNumber": "7134360613",
+        "coordinates": {
+            "latitude": 29.555135,
+            "longitude": -95.403403
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "11830 BROADWAY ST",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Pearland",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "775843972"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["11830 BROADWAY ST", "Pearland, TX 77584"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "518-southern-trails-dr-11830-broadway-st-pearland-tx-775843972-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6401-26967",
+        "id": "8965",
+        "name": "Memorial & Benignus",
+        "phoneNumber": "713-647-9824",
+        "coordinates": {
+            "latitude": 29.766554,
+            "longitude": -95.550335
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "12500 Memorial Dr.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": "Lantern Lane S.C.",
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770247556"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["12500 Memorial Dr.", "Houston, TX 77024"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 5-8 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "memorial-benignus-12500-memorial-dr-lantern-lane-s-c-houston-tx-7702"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6360-4957",
+        "id": "9290",
+        "name": "Westheimer & Post Oak",
+        "phoneNumber": "713-621-7685",
+        "coordinates": {
+            "latitude": 29.74119,
+            "longitude": -95.46063
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2521 Post Oak Boulevard",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770565203"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 2:00 AM",
+        "warnings": [],
+        "addressLines": ["2521 Post Oak Boulevard", "Houston, TX 77056"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 2:00 AM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 2:00 AM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 2:00 AM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 2:00 AM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 2:00 AM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 2:00 AM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 2:00 AM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "westheimer-post-oak-2521-post-oak-boulevard-houston-tx-770565203-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "11378-103800",
+        "id": "17411",
+        "name": "Briar Forest & Eldridge",
+        "phoneNumber": "281-596-8895",
+        "coordinates": {
+            "latitude": 29.755784,
+            "longitude": -95.624591
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1535 Eldridge Pkwy",
+            "streetAddressLine2": "200",
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770772428"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["1535 Eldridge Pkwy", "200", "Houston, TX 77077"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "briar-forest-eldridge-1535-eldridge-pkwy-houston-tx-770772428-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "10793-102121",
+        "id": "17410",
+        "name": "Hwy 59 & Cummins",
+        "phoneNumber": "7136236570",
+        "coordinates": {
+            "latitude": 29.729627,
+            "longitude": -95.438027
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3800 SW Freeway",
+            "streetAddressLine2": "Bld A",
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770277574"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": ["Mobile order unavailable"],
+        "addressLines": ["3800 SW Freeway", "Bld A", "Houston, TX 77027"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-59-cummins-3800-sw-freeway-houston-tx-770277574-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "50930-266026",
+        "id": "1021672",
+        "name": "Memorial Dr. & Wycliffe",
+        "phoneNumber": "8324701954",
+        "coordinates": {
+            "latitude": 29.772376,
+            "longitude": -95.574696
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "13211 Memorial Dr",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770793537"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["13211 Memorial Dr", "Houston, TX 77079"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "memorial-dr-wycliffe-13211-memorial-dr-houston-tx-770793537-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6309-2684",
+        "id": "18549",
+        "name": "Memorial & Dairy Ashford",
+        "phoneNumber": "281-496-1598",
+        "coordinates": {
+            "latitude": 29.769851,
+            "longitude": -95.607166
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "14607 Memorial Dr.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": "Memorial & Dairy Ashford",
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770797501"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["14607 Memorial Dr.", "Houston, TX 77079"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "memorial-dairy-ashford-14607-memorial-dr-memorial-dairy-ashford-houston-t"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6300-1937",
+        "id": "15185",
+        "name": "5801 Kirby",
+        "phoneNumber": "713-522-4898",
+        "coordinates": {
+            "latitude": 29.720295,
+            "longitude": -95.418314
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5801 Kirby Dr",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770052409"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 10:00 PM",
+        "warnings": [],
+        "addressLines": ["5801 Kirby Dr", "Houston, TX 77005"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 5-8 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "5801-kirby-5801-kirby-dr-houston-tx-770052409-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "22044-211217",
+        "id": "1008844",
+        "name": "Grand Parkway & W Bellfort",
+        "phoneNumber": "832-595-8069",
+        "coordinates": {
+            "latitude": 29.663954,
+            "longitude": -95.745303
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "7770 W. Grand Parkway S",
+            "streetAddressLine2": "Suite A",
+            "streetAddressLine3": null,
+            "city": "Richmond",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774065832"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["7770 W. Grand Parkway S", "Suite A", "Richmond, TX 77406"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "grand-parkway-w-bellfort-7770-w-grand-parkway-s-richmond-tx-774065832-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "9614-97485",
+        "id": "9591",
+        "name": "I-10 & Kirkwood",
+        "phoneNumber": "281-584-9063",
+        "coordinates": {
+            "latitude": 29.783878,
+            "longitude": -95.588615
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "11611 Katy Freeway",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770791801"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:30 PM",
+        "warnings": [],
+        "addressLines": ["11611 Katy Freeway", "Houston, TX 77079"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "i-10-kirkwood-11611-katy-freeway-houston-tx-770791801-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "23258-222224",
+        "id": "1007622",
+        "name": "I-10 & Brogden Rd",
+        "phoneNumber": "2813873115",
+        "coordinates": {
+            "latitude": 29.783639,
+            "longitude": -95.506566
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "8819 Katy Freeway",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770241603"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": false,
+        "openStatusText": "Closed",
+        "warnings": ["Store closed"],
+        "addressLines": ["8819 Katy Freeway", "Houston, TX 77024"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "12:30 PM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "12:30 PM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "12:30 PM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "12:30 PM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "12:30 PM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "12:30 PM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "i-10-brogden-rd-8819-katy-freeway-houston-tx-770241603-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "9578-96918",
+        "id": "8213",
+        "name": "Hwy 6 & Memorial",
+        "phoneNumber": "281-496-1468",
+        "coordinates": {
+            "latitude": 29.775286,
+            "longitude": -95.643471
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "803 Highway 6 South",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770794040"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:30 PM",
+        "warnings": [],
+        "addressLines": ["803 Highway 6 South", "Houston, TX 77079"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-6-memorial-803-highway-6-south-houston-tx-770794040-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "13963-100309",
+        "id": "6761",
+        "name": "I-10 & Wirt",
+        "phoneNumber": "713-827-1350",
+        "coordinates": {
+            "latitude": 29.785045,
+            "longitude": -95.495087
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "8420 Katy Freeway",
+            "streetAddressLine2": "500",
+            "streetAddressLine3": null,
+            "city": "Spring Valley",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "77055"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["8420 Katy Freeway", "500", "Spring Valley, TX 77055"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "i-10-wirt-8420-katy-freeway-spring-valley-tx-77055-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "48023-260946",
+        "id": "1019679",
+        "name": "Richmond & Woodhead",
+        "phoneNumber": "3462622674",
+        "coordinates": {
+            "latitude": 29.733991,
+            "longitude": -95.404803
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1801 Richmond Ave.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770983509"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 10:00 PM",
+        "warnings": [],
+        "addressLines": ["1801 Richmond Ave.", "Houston, TX 77098"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "richmond-woodhead-1801-richmond-ave-houston-tx-770983509-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6371-28835",
+        "id": "15652",
+        "name": "Shepherd & Harold",
+        "phoneNumber": "713-523-8533",
+        "coordinates": {
+            "latitude": 29.740494,
+            "longitude": -95.410362
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2801 S. Shepherd Drive",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770981535"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Closes in 9 mins",
+        "warnings": ["Store closing soon", "Mobile order unavailable"],
+        "addressLines": ["2801 S. Shepherd Drive", "Houston, TX 77098"],
+        "mop": {
+            "ready": false,
+            "wait": "Prep time: 5-8 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "shepherd-harold-2801-s-shepherd-drive-houston-tx-770981535-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "11982-103766",
+        "id": "17050",
+        "name": "Hwy 59 & Hwy 762",
+        "phoneNumber": "281-232-5130",
+        "coordinates": {
+            "latitude": 29.544835,
+            "longitude": -95.753609
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "24406 SW Freeway",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Rosenberg",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774715989"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:30 PM",
+        "warnings": [],
+        "addressLines": ["24406 SW Freeway", "Rosenberg, TX 77471"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-59-hwy-762-24406-sw-freeway-rosenberg-tx-774715989-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6320-4129",
+        "id": "18511",
+        "name": "River Oaks - NE Corner",
+        "phoneNumber": "713/522-3029",
+        "coordinates": {
+            "latitude": 29.753221,
+            "longitude": -95.410332
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2050 W. Gray",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770193602"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["2050 W. Gray", "Houston, TX 77019"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "river-oaks-ne-corner-2050-w-gray-houston-tx-770193602-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "48923-265684",
+        "id": "1021960",
+        "name": "Washington & Schuler",
+        "phoneNumber": "7138642185",
+        "coordinates": {
+            "latitude": 29.77252,
+            "longitude": -95.424546
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6201 Washington Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770073003"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["6201 Washington Ave", "Houston, TX 77007"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "washington-schuler-6201-washington-ave-houston-tx-770073003-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "19258-177005",
+        "id": "116413",
+        "name": "Louisiana & McGowen",
+        "phoneNumber": "713-528-2204",
+        "coordinates": {
+            "latitude": 29.746964,
+            "longitude": -95.376669
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2625 Louisiana Street",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770063583"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["2625 Louisiana Street", "Houston, TX 77006"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "louisiana-mc-gowen-2625-louisiana-street-houston-tx-770063583-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "17085-164844",
+        "id": "90538",
+        "name": "Gessner & Kempwood",
+        "phoneNumber": "7134620493",
+        "coordinates": {
+            "latitude": 29.821088,
+            "longitude": -95.545745
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2745 Gessner",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770803736"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["2745 Gessner", "Houston, TX 77080"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "gessner-kempwood-2745-gessner-houston-tx-770803736-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "50627-260964",
+        "id": "1024148",
+        "name": "Barker Cypress & Park Row",
+        "phoneNumber": "8325849887",
+        "coordinates": {
+            "latitude": 29.789189,
+            "longitude": -95.688893
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "18002 PARK ROW DRIVE",
+            "streetAddressLine2": "100",
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "77084"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 8:00 PM",
+        "warnings": [],
+        "addressLines": ["18002 PARK ROW DRIVE", "100", "Houston, TX 77084"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "4:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "4:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "4:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "barker-cypress-park-row-18002-park-row-drive-houston-tx-77084-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6384-282828",
+        "id": "1024904",
+        "name": "Highland Knolls & Westgreen",
+        "phoneNumber": "2813981020",
+        "coordinates": {
+            "latitude": 29.759307,
+            "longitude": -95.734008
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1711 Westgreen Blvd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Katy",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "77450"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["1711 Westgreen Blvd", "Katy, TX 77450"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 4-7 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "highland-knolls-westgreen-1711-westgreen-blvd-katy-tx-77450-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "17214-164865",
+        "id": "90578",
+        "name": "I-10 & Yale",
+        "phoneNumber": "8326181149",
+        "coordinates": {
+            "latitude": 29.774782,
+            "longitude": -95.398356
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "217 Heights Blvd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770073618"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["217 Heights Blvd", "Houston, TX 77007"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "i-10-yale-217-heights-blvd-houston-tx-770073618-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "19797-169925",
+        "id": "1005244",
+        "name": "I-10 & Greenhouse",
+        "phoneNumber": "281-578-2062",
+        "coordinates": {
+            "latitude": 29.784284,
+            "longitude": -95.705413
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "19235 Katy Freeway",
+            "streetAddressLine2": "100",
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770941036"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Closes in 39 mins",
+        "warnings": ["Store closing soon"],
+        "addressLines": ["19235 Katy Freeway", "100", "Houston, TX 77094"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "i-10-greenhouse-19235-katy-freeway-houston-tx-770941036-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "17692-174324",
+        "id": "91118",
+        "name": "Fry & Seven Meadows",
+        "phoneNumber": "281-574-2051",
+        "coordinates": {
+            "latitude": 29.71503,
+            "longitude": -95.778309
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "23010 Seven Meadows Parkway",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Katy",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774940867"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["23010 Seven Meadows Parkway", "Katy, TX 77494"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "fry-seven-meadows-23010-seven-meadows-parkway-katy-tx-774940867-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "9374-231487",
+        "id": "1014213",
+        "name": "Hwy 290 & 34th St",
+        "phoneNumber": "7136836376",
+        "coordinates": {
+            "latitude": 29.81977,
+            "longitude": -95.467346
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "5340 W 34th Street",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Houston",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "770926626"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "temporarilyOffline"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["5340 W 34th Street", "Houston, TX 77092"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 3-6 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "CX",
+            "name": "Curbside"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "hwy-290-34th-st-5340-w-34th-street-houston-tx-770926626-us"
+    }, {
+        "recommendation": {
+            "isUsual": false
+        },
+        "storeNumber": "6383-22701",
+        "id": "13469",
+        "name": "Fry & Park",
+        "phoneNumber": "281-398-5680",
+        "coordinates": {
+            "latitude": 29.790581,
+            "longitude": -95.720594
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "19914 Park Row",
+            "streetAddressLine2": null,
+            "streetAddressLine3": "Crossing at Fry Road",
+            "city": "Katy",
+            "countrySubdivisionCode": "TX",
+            "countryCode": "US",
+            "postalCode": "774494915"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -300,
+            "windowsTimeZoneId": "Central Standard Time",
+            "olsonTimeZoneId": "GMT-06:00 America/Chicago"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "curbside": {
+            "state": "notSupported"
+        },
+        "open": true,
+        "openStatusText": "Open until 9:00 PM",
+        "warnings": [],
+        "addressLines": ["19914 Park Row", "Katy, TX 77449"],
+        "mop": {
+            "ready": true,
+            "wait": "Prep time: 5-8 min"
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tuesday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Wednesday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Redeem Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "SE",
+            "name": "Non-SVC MOP"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "fry-park-19914-park-row-crossing-at-fry-road-katy-tx-774494"
+    }]
+    
